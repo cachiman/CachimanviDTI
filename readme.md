@@ -30,7 +30,7 @@ conda env create -f environment.yaml
 ```
 ## Dataset
 The data feature file used in this study can be download from the link 
-https://zenodo.org/records/13984740
+https://zenodo.org/records/13989199
 ## Train
 ### Feature extraction
 Firstly, seqence features of proteins, 
