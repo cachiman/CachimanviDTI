@@ -24,7 +24,7 @@ Download the source code of EviDTI from GitHub:
 ```bash
 git clone https://github.com/username/my-project.git
 ```
-Install EviDTI dependencies as following:
+Install EviDTI dependencies as following,this will take about one to two hours.:
 ```bash
 conda env create -f environment.yaml
 ```
@@ -68,12 +68,14 @@ automatically shown on your command line，
 and the trained model parameters will be saved in 
 "runs" dictory for the best epoch.
 ## Prediction
-Model parameters can be found under the runs folder
+Model parameters can be found under the runs folder.
+It takes about 5 minutes to run a test on the DrugBank test set (~3000 samples) and output the results
 ```bash
 python infernce.py
 ```
 After predicting with your well trained model, 
-the predicting output will be saved in "runs" dictory.
+the predicting output will be saved in "runs" dictory.  
+Sample test results and saved model parameters are placed under https://zenodo.org/records/13989199 due to file size.
 ## License
 This project is covered under the Apache 2.0 License.
 
