@@ -1,7 +1,7 @@
 # EviDTI
 This is the implementation of EviDTI: Evidential Deep Learning for Guided Drug-Target Interaction Prediction
 
-![image](framework.tif)
+![image](framework.png)
 ## catalogue
 
 - [Installation](#Installation)
@@ -30,7 +30,7 @@ conda env create -f environment.yaml
 ```
 ## Dataset
 The data feature file used in this study can be download from the link 
-https://zenodo.org/records/13989199
+https://zenodo.org/records/14056305
 ## Train
 ### Feature extraction
 Firstly, seqence features of proteins, 
