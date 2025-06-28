@@ -1,7 +1,7 @@
 # EviDTI
 This is the implementation of EviDTI: Evidential Deep Learning for Guided Drug-Target Interaction Prediction
 
-![image](framework.png)
+![image](framework.tif)
 ## catalogue
 
 - [Installation](#Installation)
@@ -75,7 +75,7 @@ python infernce.py
 ```
 After predicting with your well trained model, 
 the predicting output will be saved in "runs" dictory.  
-Sample test results and saved model parameters are placed under https://zenodo.org/records/13989199 due to file size.
+Sample test results and saved model parameters are placed under https://zenodo.org/records/14056305 due to file size.
 ## License
 This project is covered under the Apache 2.0 License.
 
