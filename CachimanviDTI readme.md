@@ -1,5 +1,5 @@
-# EviDTI
-This is the implementation of EviDTI: Evidential Deep Learning for Guided Drug-Target Interaction Prediction
+# CachimanviDTI
+This is the implementation of CachimanviDTI: Evidential Deep Learning for Guided Drug-Target Interaction Prediction
 
 ![image](framework.png)
 ## catalogue
